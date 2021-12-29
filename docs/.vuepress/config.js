@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/notes/",
+  base: "/notes/dist/",
   title: "Some Notes",
   themeConfig: {
     nav: [
