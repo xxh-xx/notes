@@ -1,0 +1,17 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "xxh",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.5",
+    "@vuepress/plugin-medium-zoom": "^1.9.5",
+    "vuepress": "^1.9.5"
+  }
+}
